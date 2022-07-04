@@ -1,7 +1,7 @@
 {
   "name": "sword",
   "description": "sword: A melee weapon",
-  "start_url": "sword.glb",
+  "start_url": "master_set_staff1.glb", "master_set_staff2.glb", "master_set_staff3.glb", "master_set_staff4.glb", "master_set_staff5.glb",
   "components": [
     {
       "key": "wear",
